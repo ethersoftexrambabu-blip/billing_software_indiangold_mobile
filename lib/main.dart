@@ -425,7 +425,6 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                       ),
                       const SizedBox(height: 24),
-
                       // Register Link
                       Row(
                         mainAxisAlignment: MainAxisAlignment.center,
